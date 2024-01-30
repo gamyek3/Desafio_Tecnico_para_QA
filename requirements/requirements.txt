@@ -1,0 +1,5 @@
+#requests: É uma biblioteca popular para fazer requisições HTTP em Python, e será útil para realizar chamadas à API.
+#pytest: É um framework de teste para Python, que facilita a criação e execução de testes. Ele oferece funcionalidades avançadas para organizar e executar testes de forma eficiente.
+
+pytest
+requests
